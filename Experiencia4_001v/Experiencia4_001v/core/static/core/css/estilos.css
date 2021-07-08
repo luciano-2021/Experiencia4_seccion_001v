@@ -1,0 +1,18 @@
+.fieldMantenedor{
+    border-radius: 10px;
+    border-color: grey;
+
+}
+
+.btnMenu{
+    background-color: #FC2C00 !important;
+    width: 700px;
+    height: 30px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 9px;
+    color: white;
+
+}
